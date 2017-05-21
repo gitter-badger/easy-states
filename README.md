@@ -1,5 +1,7 @@
 ## What is Easy States?
 
+[![Join the chat at https://gitter.im/j-easy/easy-states](https://badges.gitter.im/j-easy/easy-states.svg)](https://gitter.im/j-easy/easy-states?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Easy States is an event-driven [Deterministic Finite Automaton](http://en.wikipedia.org/wiki/Deterministic_finite_state_machine) implementation in Java.
 
 It is inspired by [Erlang](http://www.erlang.org/documentation/doc-5.9.3/doc/design_principles/fsm.html) design principles which describe a Finite State Machine as a set of relations of the form:
